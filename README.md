@@ -17,4 +17,4 @@ Api rest para gerenciamento de ponto e controle de acesso.
 Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
 
 # Modelo de dados
-![image](https://user-images.githubusercontent.com/6122791/123674340-e3a4ae00-d817-11eb-8e50-4b95c0d0efc2.png)
+![image](https://github.com/rdeconti/Projeto-DIO-Java-Spring-Controle-Ponto/blob/main/modelo%20de%20dados.png)
